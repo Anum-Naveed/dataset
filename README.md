@@ -1,4 +1,2 @@
-Set paths according to your folder paths for both images and masks.
-
-Run code in separate cells in chunks
+This code is for vegetation segmentation in frankfurt images.
 
